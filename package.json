@@ -40,7 +40,7 @@
   },
   "peerDependencies": {
     "react": "^18.0.0",
-    "react-native": "^0.64.0"
+    "react-native": "^0.71"
   },
   "lint-staged": {
     "**/**.{js,json,md,ts}": [
